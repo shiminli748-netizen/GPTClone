@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#10A37F</color>
+    <color name="colorPrimaryDark">#0D8A6A</color>
+    <color name="colorPrimaryVariant">#10A37F</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#B8C0D4</color>
+    <color name="colorSecondaryVariant">#9CA3AF</color>
+    <color name="colorOnSecondary">#1A1A2E</color>
+    <color name="colorSurface">#1E1E2E</color>
+    <color name="colorOnSurface">#E4E4E7</color>
+    <color name="colorError">#F87171</color>
+    <color name="colorOnError">#1E1E2E</color>
+    <color name="colorPrimaryContainer">#1A3A30</color>
+    <color name="colorOnPrimaryContainer">#A8E6CF</color>
+    <color name="colorSecondaryContainer">#2A2A3E</color>
+    <color name="colorOnSecondaryContainer">#C4C7E0</color>
+    <color name="colorBackground">#121218</color>
+    <color name="chat_user_bubble">#10A37F</color>
+    <color name="chat_ai_bubble">#2A2A3E</color>
+    <color name="send_button_bg">#10A37F</color>
+</resources>
