@@ -25,6 +25,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.appbar.MaterialToolbar;
+import com.google.android.material.button.MaterialButton;
 import com.google.android.material.navigation.NavigationView;
 import com.gptclone.app.adapter.ChatAdapter;
 import com.gptclone.app.adapter.ConversationAdapter;
@@ -67,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements
     private EditText editTextMessage;
     private ImageButton btnSend;
     private ImageButton btnStop;
-    private ImageButton btnNewChat;
+    private MaterialButton btnNewChat;
     private LinearLayout layoutEmpty;
 
     private ChatAdapter chatAdapter;
